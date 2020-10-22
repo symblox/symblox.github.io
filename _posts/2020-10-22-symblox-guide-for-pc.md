@@ -83,7 +83,7 @@ Input the following settings for Velas Mainnet.
 | Symbol                        | VLX                            |
 | Block Explorer URL (optional) | https://explorer.velas.com     |
 
-<img src="/assets/Asset 12_AddNetwork_2.PNG" align="center" style="width: 600px"/>
+<img src="/assets/Asset 12_AddNetwork_2.png" align="center" style="width: 600px"/>
 
 ---
 
@@ -106,8 +106,8 @@ If you don't have an account, click 'New Account' and follow the instructions.
 
 From the left menu, click the 'Search' tab. On the right column, scroll down the list and click on 'Convert VLX2ETH'.
 
-<img src="/assets/VelasSearch.PNG" align="center" style="width: 600px"/>
+<img src="/assets/VelasSearch.png" align="center" style="width: 600px"/>
 
 Paste your Ethereum address in the bottom field. It will automatically convert to VLX address formatting in the top field and vice versa.
 
-<img src="/assets/VelasConvert.PNG" align="center" style="width: 600px"/>
+<img src="/assets/VelasConvert.png" align="center" style="width: 600px"/>
