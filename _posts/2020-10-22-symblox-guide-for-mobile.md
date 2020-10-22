@@ -35,9 +35,9 @@ categories: guides yield-farming
     d. Backing up Recovery Seeds
 
     -   Click on ‘Settings’ tab, then click ‘BACK UP WALLET’.  
-         <img src="/assets/syxAsset 1WalletImportd.png" align="center" style="width: 600px"/>
+         <img src="/assets/syxAsset 1WalletImportD.png" align="center" style="width: 600px"/>
     -   Click ‘Back up my wallet’.  
-         <img src="/assets/syxAsset 1WalletImporte.png" align="center" style="width: 600px"/>
+         <img src="/assets/syxAsset 1WalletImportE.png" align="center" style="width: 600px"/>
     -   Save your 12-word recovery seed to paper. Click ‘OK, I wrote this down’ when saved. <img src="/assets/syxAsset 1WalletImportf.png" align="center" style="width: 600px"/>
 
     e. Adding SYX VRC-20 token
