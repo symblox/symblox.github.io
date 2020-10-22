@@ -66,7 +66,7 @@ categories: guides yield-farming
     - Optionally, to access Symblox homepage, click ![](/assets/menuico.png) in the upper-right corner to access the menu. From the menu, click ‘Goto Homepage’.  
        <img src="/assets/syxAsset 1StartDapp_ab.png" align="center" style="width: 600px"/>
     - Symblox dApp can also be accessed directly by typing in the address field: https://app.symblox.io  
-      b. Connecting Wallet
+    b. Connecting Wallet  
     - For security purposes, Symblox dApp cannot access the balance of your wallet without permission. To allow Symblox access to your wallet balance, click ‘Connect wallet’. **Note:** **Allow some time for Symblox to connect to your wallet. Time varies depending on Velas network congestion.**  
        <img src="/assets/syxAsset 1ConnectWallet_a.png" align="center" style="width: 600px"/>
 
