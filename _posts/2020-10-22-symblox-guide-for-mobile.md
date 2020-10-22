@@ -38,7 +38,8 @@ categories: guides yield-farming
          <img src="/assets/syxAsset 1WalletImportD.png" align="center" style="width: 600px"/>
     -   Click ‘Back up my wallet’.  
          <img src="/assets/syxAsset 1WalletImportE.png" align="center" style="width: 600px"/>
-    -   Save your 12-word recovery seed to paper. Click ‘OK, I wrote this down’ when saved. <img src="/assets/syxAsset 1WalletImportf.png" align="center" style="width: 600px"/>
+    -   Save your 12-word recovery seed to paper. Click ‘OK, I wrote this down’ when saved.  
+         <img src="/assets/syxAsset 1WalletImportF.png" align="center" style="width: 600px"/>
 
     e. Adding SYX VRC-20 token
 
@@ -80,10 +81,10 @@ categories: guides yield-farming
        <img src="/assets/syxAsset 1SeedPool_b.png" align="center" style="width: 600px"/>
 
     - After joining, you can now add liquidity to the Seed Pool. Scroll to the blue box section of the Rewards Pool and click ‘Add Liquidity’.  
-       <img src="/assets/syxAsset 1SeedPool_c.png" align="center" style="width: 600px"/>
+       <img src="/assets/syxAsset 1SeedPool_C.png" align="center" style="width: 600px"/>
 
     - Enter the amount of liquidity to add, then click ‘Confirm’.  
-       <img src="/assets/syxAsset 1SeedPool_d.png" align="center" style="width: 600px"/>
+       <img src="/assets/syxAsset 1SeedPool_D.png" align="center" style="width: 600px"/>
 
     d. Adding liquidity to the Swap Pool
 
