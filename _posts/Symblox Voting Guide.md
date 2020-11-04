@@ -19,7 +19,7 @@ You can check guides for PC <a href="https://symblox.github.io/guides/yield-farm
 (2) If Symblox token isn't listed in your wallet then click on 'Add/Hide Tokens'.  
 
 <p align="center">
-<img src="../assets/AddToken_1.png" style="width: 300px"/>
+<img src="../assets/AddToken_1.png" width="100"/>
 </p>  
 
 Click the + sign.
