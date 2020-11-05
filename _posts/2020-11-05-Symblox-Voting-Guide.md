@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Symblox Voting Guide for Mobile"
+title: "Symblox Voting Guide"
 date: 2020-11-05 17:18:00 +0800
-categories: guides yield-farming
+categories: guides voting
 ---
 
 <p align="center">
