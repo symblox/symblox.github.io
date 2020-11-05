@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Symblox Voting Guide for Mobile"
+date: 2020-11-05 17:18:00 +0800
+categories: guides yield-farming
+---
+
 <p align="center">
 <img src="../assets/SymbloxLogoName.png" height:"64"/>
 </p>
