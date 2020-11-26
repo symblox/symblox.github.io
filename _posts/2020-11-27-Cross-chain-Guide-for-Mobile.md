@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Symblox Guide for PC"
+title: "Cross-chain Guide for Mobile"
 date: 2020-11-27 05:20:00 +0800
 categories: guides yield-farming
 ---
