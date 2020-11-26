@@ -3,7 +3,6 @@ layout: page
 title: "Cross-chain Guide for Mobile"
 date: 2020-11-27 05:20:00 +0800
 categories: guides yield-farming
-permalink: ../
 ---
 
 <p align="center">
@@ -18,6 +17,7 @@ You can check guides for mobile <a href="https://symblox.github.io/guides/yield-
 You can check guides for PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">here</a>. 
 
 --- 
+# Configuring Velas Defi Wallet  
 
 <details>
 <summary>Adding Ethereum Network.</summary>  
