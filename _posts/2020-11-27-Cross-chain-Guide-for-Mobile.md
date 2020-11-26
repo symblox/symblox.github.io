@@ -18,7 +18,8 @@ You can check guides for PC <a href="https://symblox.github.io/guides/yield-farm
 
 --- 
 
-##### Adding Ethereum Network  
+<details>
+<summary>Adding Ethereum Network.</summary>  
 Click on 'Settings' tab, then choose "Select Active Networks"  
 <p align="center">
 <img src="assets/Bridge_1.png" style="width: 500px"/>
@@ -28,10 +29,11 @@ Choose 'Ethereum' then click 'Save'.
 <p align="center">
 <img src="assets/Bridge_2.png" style="width: 500px"/>
 </p>  
+</details>
 
-
-##### Adding USDT token contract for Ethereum *and* Velas.
-
+<details>
+<summary>Adding USDT token contract for Ethereum *and* Velas.</summary>  
+  
 Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
 
 <p align="center">
@@ -60,12 +62,16 @@ SYX Token Address: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**
 <p align="center">
 <img src="assets/AddToken_3.png" style="width: 500px"/>
 </p>    
+</details>
 
 ---  
 
 
 # Using TokenBridge  
-##### Transferring USDT on Ethereum to Velas blockchain.  
+
+<details>
+<summary>Transferring USDT on Ethereum to Velas blockchain.</summary>  
+  
 Click 'Symblox' tab, then enter the cross-chain address into the the address field:  
 <a href="https://xc.symblox.net/" target="_blank">https://xc.symblox.net/</a>  
 <p align="center">
@@ -120,10 +126,10 @@ After transfer, you can check your 'Balance' to see the amount transferred.
 <p align="center">
 <img src="assets/Bridge_14.png" style="width: 500px"/>
 </p>  
+</details>
 
-##### Transferring USDT from Velas back to the Ethereum blockchain.  
 <details>
-<summary>Example</summary>
+<summary>Transferring USDT from Velas back to the Ethereum blockchain.</summary>
 <br>
 
 (1) Click the menu button.  
