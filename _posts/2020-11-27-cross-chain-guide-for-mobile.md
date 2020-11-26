@@ -3,6 +3,7 @@ layout: page
 title: "Cross-chain Guide for Mobile"
 date: 2020-11-27 05:20:00 +0800
 categories: guides yield-farming
+permalink: /
 ---
 
 <p align="center">
