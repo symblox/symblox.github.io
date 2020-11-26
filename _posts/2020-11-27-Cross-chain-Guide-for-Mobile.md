@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Symblox Guide for PC"
+date: 2020-11-27 05:20:00 +0800
+categories: guides yield-farming
+---
+
 <p align="center">
 <img src="assets/SymbloxLogoName.png" style="height: 64px"/>
 </p>
