@@ -5,7 +5,10 @@ date: 2020-10-22 16:05:00 +0800
 categories: guides yield-farming
 ---
 
+<p align="center">
 <img src="/assets/SymbloxLogoName.png" height="64"/>
+</p>
+
 # Symblox Quick Guide for Mobile
 
 1.  **Setting up Velas DeFi Wallet**
