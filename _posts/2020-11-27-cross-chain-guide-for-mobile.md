@@ -73,7 +73,8 @@ SYX Token Address: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**
 <details>
 <summary>Transferring USDT on Ethereum to Velas blockchain.</summary>  
   
-Click 'Symblox' tab, then enter the cross-chain address into the the address field:  
+Click 'Symblox' tab, then goto homepage: <a href="https://symblox.io/" target="_blank">https://symblox.io/</a>  
+Click 'Open Cross-chain' button or type in the address field:  
 <a href="https://x.symblox.io/" target="_blank">https://x.symblox.io/</a>  
 <p align="center">
 <img src="/assets/Bridge_7.png" width="400"/>
