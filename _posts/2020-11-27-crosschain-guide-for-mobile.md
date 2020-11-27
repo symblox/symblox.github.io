@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Crosschain Guide for Mobile"
+title: "crosschain guide for mobile"
 date: 2020-11-27 05:20:00 +0800
 categories: guides yield-farming
 ---
