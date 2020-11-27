@@ -6,7 +6,7 @@ categories: guides yield-farming
 ---
 
 <p align="center">
-<img src="/assets/SymbloxLogoName.png" height:"64"/>
+<img src="/assets/SymbloxLogoName.png" height="64"/>
 </p>
 
 # Symblox Voting Guide for Mobile
