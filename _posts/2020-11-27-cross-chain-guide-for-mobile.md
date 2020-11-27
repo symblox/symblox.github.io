@@ -33,7 +33,7 @@ Choose 'Ethereum' then click 'Save'.
 </details>
 
 <details>
-<summary>Adding USDT token contract for Ethereum _and_ Velas.</summary>  
+<summary>Adding USDT token contract for Ethereum and Velas.</summary>  
   
 Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
 
