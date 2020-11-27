@@ -6,7 +6,7 @@ categories: guides yield-farming
 ---
 
 <p align="center">
-<img src="/assets/SymbloxLogoName.png" style="height: 64px"/>
+<img src="/assets/SymbloxLogoName.png" height="64"/>
 </p>
 
 # Cross-chain Guide for Mobile
