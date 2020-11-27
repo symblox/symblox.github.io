@@ -5,7 +5,10 @@ date: 2020-10-22 15:10:00 +0800
 categories: guides yield-farming
 ---
 
-<img src="/assets/SymbloxLogoName.png" align="center" style="height: 64px"/>
+<p align="center">
+<img src="/assets/SymbloxLogoName.png" height="64"/>
+</p>
+
 
 # Symblox Guide for PC
 
