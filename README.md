@@ -15,4 +15,4 @@ permalink: /
 
 -   [Symblox Voting Guide for Mobile](https://github.com/hungypoo/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
 
--   [Cross-chain Guide for Mobile](https://github.com/hungypoo/symblox.github.io/blob/master/_posts/2020-11-27-cross-chain-guide-for-mobile.md)
+-   [Cross-chain Guide for Mobile](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-27-cross-chain-guide-for-mobile.md)
