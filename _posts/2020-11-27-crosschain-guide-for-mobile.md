@@ -221,7 +221,7 @@ Enter amount to transfer then checkbox agreement. Click 'Next' to continue.
 <img src="/assets/WETH_5.png" width="400"/>
 </p>  
 
->Note*** Make sure to have enough ETH reserved to pay for transaction fees.  
+>Note*** Make sure you have enough ETH reserved to pay for transaction fees.  
 
 Verify the amount to be swapped then click 'CONFIRM'.  
 
@@ -229,7 +229,7 @@ Verify the amount to be swapped then click 'CONFIRM'.
 <img src="/assets/WETH_6.png" width="400"/>
 </p>  
 
-Click 'CONFIRM' to finish transaction, or click 'Edit' to change gas fees.  
+Click 'Confirm' to finish transaction, or click 'Edit' to change gas fees.  
 <p align="center">
 <img src="/assets/WETH_7.png" width="400"/>
 </p>  
@@ -268,7 +268,7 @@ Click 'Confirm' to finish or click 'Edit' to change gas fees.
 <img src="/assets/WETH_12.png" width="400"/>
 </p>  
 
-Depending on network traffic, the transaction could take a few minutes to confirm. If it is stuck on the 'Loading...' screen for over a few minutes, you can reload the page to verify if its unlocked. It is advised that you increase the gas fee to average or fast to improve wait time.  
+Depending on network traffic, the transaction could take a few minutes to confirm. If it is stuck on the 'Loading...' screen for over a few minutes, you can reload the page to verify if its unlocked. It is advised that you increase the gas fee to fast or rapid to improve wait time.  
 
 <p align="center">
 <img src="/assets/WETH_13.png" width="400"/>
