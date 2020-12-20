@@ -209,7 +209,7 @@ Click on 'Ethereum'.
 </p>  
 
 1. Click 'Connect Wallet'.
-2. Click 'Wrap/Unwrap ETH' to load Kypher widget.  
+2. Click 'Wrap/Unwrap ETH' to load Kyber widget.  
 
 <p align="center">
 <img src="/assets/WETH_4.png" width="400"/>
