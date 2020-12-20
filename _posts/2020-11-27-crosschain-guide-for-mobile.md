@@ -21,6 +21,8 @@ You can check guides for PC <a href="https://symblox.github.io/guides/yield-farm
 
 <details>
 <summary>Adding Ethereum Network.</summary>  
+<br>
+  
 Click on 'Settings' tab, then choose "Select Active Networks"  
 <p align="center">
 <img src="../assets/Bridge_1.png" width="400"/>
@@ -34,6 +36,7 @@ Choose 'Ethereum' then click 'Save'.
 
 <details>
 <summary>Adding USDT token contract for Ethereum and Velas.</summary>  
+<br>
   
 Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
 
@@ -67,6 +70,7 @@ SYX Token Address: **0x2de7063fe77aAFB5b401d65E5A108649Ec577170**
 
 <details>
 <summary>Adding WETH token contract for Ethereum and Velas.</summary>  
+<br>
   
 Click on the 'Wallet' tab, then click on 'Add/Hide Tokens'.
 
@@ -97,6 +101,7 @@ Repeat the process to add WETH on Velas:
 
 <details>
 <summary>Transferring USDT on Ethereum to Velas blockchain.</summary>  
+<br>
   
 Click 'Symblox' tab, then goto homepage: <a href="https://symblox.io/" target="_blank">https://symblox.io/</a>  
 Click 'Open Cross-chain' button or type in the address field:  
@@ -184,7 +189,7 @@ Verify the amount then click 'Continue'.
 
 <details>
 <summary>Transferring WETH on Ethereum to Velas blockchain.</summary>  
-
+<br>
 
 Within DeFi Wallet app, go to homepage. Then click the 'Open Cross-chain' button.  
 <p align="center">
@@ -291,6 +296,7 @@ Click 'Confirm' to finish or 'Edit' to change gas fees.
   
 <details>
 <summary>Transferring WETH on Velas back to Ethereum blockchain.</summary>  
+<br>
 
 From the cross-chain page:  
 1. Click on the menu.  
