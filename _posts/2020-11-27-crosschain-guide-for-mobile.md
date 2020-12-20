@@ -84,7 +84,7 @@ Click the '+' sign.
 </p>  
 
 Paste the following address in the 'Contract Address' field to add WETH token on Ethereum. The other fields will autofill when you paste the address.  
-USDT on Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
+WETH on Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
 <p align="center">
 <img src="/assets/WETH_CONTRACT.png" width="400"/>
 </p>  
