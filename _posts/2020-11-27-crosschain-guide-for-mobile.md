@@ -367,7 +367,7 @@ Verify transaction then click 'APPROVE' to continue.
 
 Click 'Confirm' to finish or 'Edit' to change the gas price.  
 <p align="center">
-<img src="./assets/WETH_29.png" width="400"/>
+<img src="/assets/WETH_29.png" width="400"/>
 </p>  
 
 Click 'CONFIRM' to finish transaction.  
