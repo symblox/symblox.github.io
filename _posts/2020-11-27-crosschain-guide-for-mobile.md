@@ -82,19 +82,17 @@ Click the '+' sign.
 Paste the following address in the 'Contract Address' field to add WETH token on Ethereum. The other fields will autofill when you paste the address.  
 USDT on Ethereum: **0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2**  
 <p align="center">
-<img src="./assets/WETH_CONTRACT.png" width="400"/>
+<img src="/assets/WETH_CONTRACT.png" width="400"/>
 </p>  
 
 Repeat the process to add WETH on Velas:  
 **V67RMNXTgYKi9CsmrSXvFfLAiubfWB5p34**  
 <p align="center">
-<img src="./assets/VWETH_CONTRACT.png" width="400"/>
+<img src="/assets/VWETH_CONTRACT.png" width="400"/>
 </p>  
 </p>    
 </details>
----  
-
-
+ 
 # Using TokenBridge  
 
 <details>
@@ -186,6 +184,7 @@ Verify the amount then click 'Continue'.
 
 <details>
 <summary>Transferring WETH on Ethereum to Velas blockchain.</summary>  
+
 
 Within DeFi Wallet app, go to homepage. Then click the 'Open Cross-chain' button.  
 <p align="center">
