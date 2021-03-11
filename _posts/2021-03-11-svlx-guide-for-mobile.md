@@ -5,7 +5,7 @@ date: 2021-03-11 18:00:00 +0700
 categories: guides yield-farming
 ---
 <p align="center">
-<img src="/assets/SymbloxLogoName.png" style="height: 64px"/>
+<img src="/assets/SymbloxLogoName.png" height="64"/>
 </p>
 
 # sVLX Guide
