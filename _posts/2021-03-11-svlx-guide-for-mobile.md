@@ -25,7 +25,7 @@ Additionally, when the user receives their sVLX, they can also participate in Sy
 
 sVLX synthetic assets provided the basic functionality for pVLX no-loss Lotto. pVLX (Lotto) has been running smoothly since it was launched on January 5, 2021.  
 
->Any investment is risky. It is recommended that users should do a good risk assessment when investing; not more than what you can afford to lose.  
+>Any investment is risky. It is recommended that users should do a good risk assessment when investing. Do not risk more than what you can afford to lose.  
 
 ---
 
