@@ -1,3 +1,4 @@
+---
 layout: page
 title: "sVLX Guide for Mobile"
 date: 2021-03-11 18:00:00 +0700
@@ -39,7 +40,7 @@ sVLX synthetic assets provided the basic functionality for pVLX no-loss Lotto. p
 (3) Enter the amount of VLX to be exchanged for sVLX.  
 (4) Click "Deposit" to finish.  
 <p align="center">
-<img src="/assets/sVLX_1.png" style="width: 500px"/>
+<img src="/assets/sVLX_1.png" width="400"/>
 </p>  
 </details>  
 
@@ -51,9 +52,8 @@ sVLX synthetic assets provided the basic functionality for pVLX no-loss Lotto. p
 (2) Click 'Withdraw' to finish.  
 
 <p align="center">
-<img src="/assets/sVLX_2.png" style="width: 500px"/>
+<img src="/assets/sVLX_2.png" width="400"/>
 </p>  
 </details>  
 
 
-  
