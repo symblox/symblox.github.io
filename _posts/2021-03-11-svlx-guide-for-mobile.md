@@ -10,8 +10,8 @@ categories: guides yield-farming
 
 # sVLX Guide
 
-##### Installing Velas Defi Wallet  
-Download the Velas DeFi Wallet at https://symblox.io.  
+##### Installing Defi Wallet  
+Download the DeFi Wallet at https://symblox.io.  
 DeFi Wallet guides for mobile <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-mobile" target="_blank">here</a>.  
 DeFi Wallet guides for PC <a href="https://symblox.github.io/guides/yield-farming/2020/10/22/symblox-guide-for-pc" target="_blank">here</a>. 
 
