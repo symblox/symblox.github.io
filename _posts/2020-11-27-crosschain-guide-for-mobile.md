@@ -25,7 +25,7 @@ You can check guides for PC <a href="https://symblox.github.io/guides/yield-farm
   
 Click on 'Settings' tab, then choose "Select Active Networks"  
 <p align="center">
-<img src="../assets/Bridge_1.png" width="400"/>
+<img src="/assets/Bridge_1.png" width="400"/>
 </p>  
 
 Choose 'Ethereum' then click 'Save'.  
