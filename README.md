@@ -4,7 +4,7 @@ title: "Symblox User's Guides"
 permalink: /
 ---
 
-![Symblox Logo](assets/SymbloxLogoName.png "Symblox Logo")
+![Symblox Logo](/assets/SymbloxLogoName.png "Symblox Logo")
 
 # Symblox User's Guides
 
@@ -16,3 +16,4 @@ permalink: /
 -   [Symblox Voting Guide for Mobile](https://github.com/hungypoo/symblox.github.io/blob/master/_posts/2020-11-05-Symblox-Voting-Guide.md)
 
 -   [Cross-chain Guide for Mobile](https://github.com/symblox/symblox.github.io/blob/master/_posts/2020-11-27-cross-chain-guide-for-mobile.md)
+-   [sVLX Guide for Mobile](https://github.com/symblox/symblox.github.io/blob/master/_posts/2021-03-11-svlx-guide-for-mobile.md)
